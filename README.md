@@ -29,11 +29,11 @@
 
 
 <p align="center">
-  <strong>⚒️ Skills & Technologies<strong>
+  <h2>⚒️ Skills & Technologies</h2>
 </p>
 
 <p align="center">
-  <strong>💻 Programming Languages<strong>
+  <h3>💻 Programming Languages</h3>
 </p>
 
 
@@ -46,18 +46,18 @@
 
 
 <p align="center">
-  <strong>⚡ Frameworks & Libraries
+  <strong>⚡Frameworks & Libraries
 <strong>
 </p>
 
 
-!\[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+!\[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch\&logoColor=white)
 
-!\[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+!\[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow\&logoColor=white)
 
-!\[NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+!\[NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-!\[Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+!\[Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 <p align="center">
   <strong>🌐 Web Development
@@ -85,8 +85,8 @@
 <strong>
 </p>
 
-
-MS Word | LaTeX
+![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=word&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 
 
@@ -99,11 +99,11 @@ MS Word | LaTeX
 
 
 
-\- Deep Learning \& Self-Supervised Learning  
+\- Deep Learning & Self-Supervised Learning  
 
-\- Healthcare AI \& ECG Classification  
+\- Healthcare AI & ECG Classification  
 
-\- Software Quality Assurance (SQA) \& Testing  
+\- Software Quality Assurance (SQA) & Testing  
 
 \- Cloud-Based Applications  
 
